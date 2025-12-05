@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-05T18:30:41.379438+00:00",
+  "generated": "2025-12-05T19:31:54.670597+00:00",
   "folders": [
     {
       "name": "midi",
@@ -8,10 +8,16 @@
           "name": "Africa.mid"
         },
         {
+          "name": "Bad_Medicine.mid"
+        },
+        {
           "name": "Bad_To_The_Bone.mid"
         },
         {
           "name": "Break_Stuff.mid"
+        },
+        {
+          "name": "Bye_Bye_Bye.mid"
         },
         {
           "name": "California_Gurls.mid"
@@ -26,6 +32,24 @@
           "name": "Dont_Stop_Believin.mid"
         },
         {
+          "name": "Dont_Stop_Me_Now.mid"
+        },
+        {
+          "name": "Dream_On.mid"
+        },
+        {
+          "name": "Espresso.mid"
+        },
+        {
+          "name": "Everybody_Want's_To_Rule_The_World.mid"
+        },
+        {
+          "name": "Fortunate_Son.mid"
+        },
+        {
+          "name": "I'm_Still_Standing.mid"
+        },
+        {
           "name": "I_Want_It_That_Way.mid"
         },
         {
@@ -35,13 +59,19 @@
           "name": "Jingle_Bells.mid"
         },
         {
+          "name": "Livin_On_A_Prayer.mid"
+        },
+        {
+          "name": "Maps.mid"
+        },
+        {
           "name": "Monster.mid"
         },
         {
           "name": "Papercut.mid"
         },
         {
-          "name": "PARADVAL.mid"
+          "name": "Paradise.mid"
         },
         {
           "name": "Paranoid.mid"
@@ -51,6 +81,24 @@
         },
         {
           "name": "Smoke_On_The_Water.mid"
+        },
+        {
+          "name": "Smooth_Criminal.mid"
+        },
+        {
+          "name": "Somebody_That_I_Used_To_Know.mid"
+        },
+        {
+          "name": "Super_Mario_Bros_Theme.mid"
+        },
+        {
+          "name": "Sweet_Child_O_Mine.mid"
+        },
+        {
+          "name": "Wanted_Dead_Or_Alive.mid"
+        },
+        {
+          "name": "You_Give_Love_A_Bad_Name.mid"
         }
       ]
     }
