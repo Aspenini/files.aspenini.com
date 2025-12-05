@@ -1,11 +1,14 @@
 {
-  "generated": "2025-12-05T06:04:56.212530+00:00",
+  "generated": "2025-12-05T06:08:02.978815+00:00",
   "folders": [
     {
       "name": "midi",
       "files": [
         {
           "name": "In_The_End.mid"
+        },
+        {
+          "name": "Paranoid.mid"
         },
         {
           "name": "Smoke_On_The_Water.mid"
