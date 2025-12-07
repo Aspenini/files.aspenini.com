@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-07T01:01:41.606702+00:00",
+  "generated": "2025-12-07T02:13:35.223128+00:00",
   "folders": [
     {
       "name": "midi",
@@ -11,13 +11,22 @@
           "name": "All_Star.mid"
         },
         {
+          "name": "Animals.mid"
+        },
+        {
           "name": "Another_One_Bites_The_Dust.mid"
+        },
+        {
+          "name": "Baby_One_More_Time.mid"
         },
         {
           "name": "Bad_Medicine.mid"
         },
         {
           "name": "Bad_To_The_Bone.mid"
+        },
+        {
+          "name": "Blueberry_Faygo.mid"
         },
         {
           "name": "Break_Stuff.mid"
@@ -50,19 +59,31 @@
           "name": "Espresso.mid"
         },
         {
-          "name": "Everybody_Want's_To_Rule_The_World.mid"
+          "name": "Everybody_Wants_To_Rule_The_World.mid"
+        },
+        {
+          "name": "FE!N.mid"
         },
         {
           "name": "Fortunate_Son.mid"
         },
         {
-          "name": "I'm_Still_Standing.mid"
+          "name": "HH.mid"
+        },
+        {
+          "name": "Hot_In_Herre.mid"
         },
         {
           "name": "I_Want_It_That_Way.mid"
         },
         {
+          "name": "Im_Still_Standing.mid"
+        },
+        {
           "name": "In_The_End.mid"
+        },
+        {
+          "name": "Invisible.mid"
         },
         {
           "name": "Iron_Man.mid"
@@ -89,6 +110,9 @@
           "name": "Never_Gonna_Give_You_Up.mid"
         },
         {
+          "name": "Not_Like_Us.mid"
+        },
+        {
           "name": "Papercut.mid"
         },
         {
@@ -98,7 +122,16 @@
           "name": "Paranoid.mid"
         },
         {
+          "name": "Rock_N_Roll_McDonalds.mid"
+        },
+        {
+          "name": "Separate_Ways.mid"
+        },
+        {
           "name": "September.mid"
+        },
+        {
+          "name": "Sigma_Boy.mid"
         },
         {
           "name": "Smoke_On_The_Water.mid"
@@ -114,6 +147,9 @@
         },
         {
           "name": "Sweet_Child_O_Mine.mid"
+        },
+        {
+          "name": "The_Housebuilding_Song.mid"
         },
         {
           "name": "Wanted_Dead_Or_Alive.mid"
