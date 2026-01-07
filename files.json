@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-07T03:09:05.895272+00:00",
+  "generated": "2026-01-07T17:10:51.082212+00:00",
   "folders": [
     {
       "name": "midi",
@@ -129,6 +129,9 @@
         },
         {
           "name": "Paranoid.mid"
+        },
+        {
+          "name": "Queen - Bohemian Rhapsody.mid"
         },
         {
           "name": "Resonance.mid"
